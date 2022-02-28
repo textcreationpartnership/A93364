@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The full particulars of the last great and terrible sea-fight between the two great fleets of England and Holland, under the command of the Lord Gen. Monk, and the Lord Admiral Vantrump; on Friday, Saturday, &amp; Sunday last: with the manner of this lamentable and bloudy engagement; the perfect narrative of each dayes action; and an exact list of the loss on both sides: together with the sinking of the Dutch Admiral; the blowing up of the famous Dolphin; the burning &amp; taking of the 38 men of war more; the taking of standard, &amp; 7 stately flags; the total routing and dispersing of 132 sail; the pursuing them close by Gen. Monk; and the burning of two gallant English ships.</title>
+            <author>Smith, Jacob.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93364</idno>
+            <idno type="STC">Wing S4089</idno>
+            <idno type="STC">Thomason E708_18</idno>
+            <idno type="STC">ESTC R4179</idno>
+            <idno type="EEBO-CITATION">99872616</idno>
+            <idno type="PROQUEST">99872616</idno>
+            <idno type="VID">166646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166646)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E708[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The full particulars of the last great and terrible sea-fight between the two great fleets of England and Holland, under the command of the Lord Gen. Monk, and the Lord Admiral Vantrump; on Friday, Saturday, &amp; Sunday last: with the manner of this lamentable and bloudy engagement; the perfect narrative of each dayes action; and an exact list of the loss on both sides: together with the sinking of the Dutch Admiral; the blowing up of the famous Dolphin; the burning &amp; taking of the 38 men of war more; the taking of standard, &amp; 7 stately flags; the total routing and dispersing of 132 sail; the pursuing them close by Gen. Monk; and the burning of two gallant English ships.</title>
+                  <author>Smith, Jacob.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton, According to Order,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jacob Smith.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653 --  Early works to 1800.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166646:1" rendition="simple:additions"/>
+            <p>THE FULL PARTICULARS OF The laſt great and terrible Sea-fight between the two great Fleets of <hi>England</hi> and <hi>Holland,</hi> under the Command of the Lord Gen. <hi>Monk,</hi> and the Lord Admiral <hi>Vantrump;</hi> on Friday, Saturday, &amp; Sunday laſt: With the manner of this lamentable and bloudy En<g ref="char:EOLhyphen"/>gagement; the perfect Narrative of each dayes action; and an exact Liſt of the loſs on both ſides: Together with the ſinking of the <hi>Dutch</hi> Admiral; the blowing up of the famous <hi>Dolphin;</hi> the burning &amp; taking of 38 men of War more; the taking of the Standard, &amp; 7 ſtately flags; the total routing and diſpierſing of 132 ſail; the purſuing them cloſe by Gen. <hi>Monk;</hi> and the burning of two gallant Engliſh ſhips.</p>
+            <figure>
+               <figDesc>woodcut depicting a naval battle</figDesc>
+            </figure>
+            <p>London, printed for G. Horton, <hi>According to Order</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166646:2"/>
+            <pb n="1" facs="tcp:166646:2"/>
+            <head>A great and bloudy fight at ſea between the Engliſh Navy, commanded by his Excellency the Lord Gen. Monk; and the Dutch fleet commanded by the lord Admiral Vantrump, on Thurſday, Fri<g ref="char:EOLhyphen"/>day, and Saturday laſt, &amp;c.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>IF ever there were a Seaſon of Obſer<g ref="char:EOLhyphen"/>vation, or rather Admiration, certain<g ref="char:EOLhyphen"/>ly it is the preſent; wherein we have bin eye-witneſſes of ſo many out-goings of God's preſence among Us, and the many miraculous Turns of Providence within a ſhort Revolution. Some memorable hints I gave you of our laſt Engagement; but for
+<pb n="4" facs="tcp:166646:3"/> this 'tis moſt excellent for Tongue or Pen to ex<g ref="char:EOLhyphen"/>preſs the greatneſs of the Action, ſuitable to that magnificent appearance of God in behalf of his people in England: Our laſt Engagement with the enemy wrought mighty glorious Effects; but this far greater; And although they took an opportu<g ref="char:EOLhyphen"/>nity to bear in upon us, having the Weather-gage; yet great was the Lord, and marvell<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us worthy to be praiſed for his glorious appearance on our be<g ref="char:EOLhyphen"/>half; the particulars whereof are thus evidenc'd.</p>
+            <p>Upon the 29 of July, about 9 in the morning, the wind at North-weſt, having weighed Anchor from the Texel the night before, a fleet was diſco<g ref="char:EOLhyphen"/>vered by our Scouts a head, which within 2 houres appeard to be the Dutch fleet come from the Wei<g ref="char:EOLhyphen"/>lings, conſiſting of 97 ſail, whereof 90 were men of war; but upon our bearing up to them, the enemy tack'd about; ſo that it was 5 in the evening before any of our frigats could come up to engage with them, which for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the enemy to make a halt, wher<g ref="char:EOLhyphen"/>by in the evening at 7 a clock this ſhip with as ma<g ref="char:EOLhyphen"/>ny ſhips and frigats as made up 30 ſail, or there<g ref="char:EOLhyphen"/>abouts, engaged with them; the reſt being aſtern, could not get up; however we fell to the work, and continued fighting till night ſeparated, which was about 9 a clock; after which time, being dark,
+<pb n="5" facs="tcp:166646:3"/> all hands were awo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk to bring ſome new failes to the Yard, and mend our riggging, wherein we had ſuffered much for ſo ſhort a time: there were kil<g ref="char:EOLhyphen"/>led out-right in this ſhip by this Evening about 16 or 17, and 25 wounded, whereof 14 dangerouſly: This night the enemy got the weather-gage of us, by ſtanding to the Northward while they ſtood to the Southward, ſuppoſing they had been under our Lee, which appeared to the contrary the next mor<g ref="char:EOLhyphen"/>ning, for they were got much to windward of us: The next day, being Saturday, little was done as to an engagement, both fleets finding it work enough from a Lee ſhore, having the wind at Weſt North<g ref="char:EOLhyphen"/>weſt blowing hard, with thick and dirty weather, which was theworſe for us being an enemies coun<g ref="char:EOLhyphen"/>try; in the evening it began to clear up; and on Sab<g ref="char:EOLhyphen"/>bath day morning, being fair weather, &amp; litle wind, both fleets prepared for a ſecond Engagement; the enemy bore in upon u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, having the wind, and con<g ref="char:EOLhyphen"/>junction with 25 great ſhips from the Texel; and about 7 in the morning there began a very hot diſ<g ref="char:EOLhyphen"/>pute, which continued till one, the ſcales of Victory being even laid in the ballance, ſo that neither could tell which had the Victory; their fire ſhips were ſomewhat annoying; and our good ſhip called the Oak was burnt, and another, whoſe men periſhed with her.</p>
+            <pb n="6" facs="tcp:166646:4"/>
+            <p>This Diſpute was fought with various ſucceſſes (to ſpeak the truth) in each dayes action; but ſtil hopeful on the behalf of the behalf of the Commonwealth of England, and inauſpicious to the enemy; of whom, I dare preſume three to one were ſlain, al<g ref="char:EOLhyphen"/>though I muſt acknowledge and aver, they fought like ſo many Alexanders, Caeſars, and Pompey's for many hours together; but at laſt it pleaſed God ſo to diſpoſe of his divine ſeries amongſt his weak inſtru<g ref="char:EOLhyphen"/>ments, that in the end it became an abſolute Victory, determinated by a tryumphant poſſeſſion of divers of their beſt ſhips, with a total ruine and diſpierſing of their whole Armado, conſiſting of no leſs then one hundred and 50 ſayl; beſides two and thir<g ref="char:EOLhyphen"/>ty fire ſhips, and commanded by four di<g ref="char:EOLhyphen"/>ſtinct Admirals, viz.</p>
+            <list>
+               <item>The Lord Admiral Trump.</item>
+               <item>Witte Wittenſe.</item>
+               <pb n="7" facs="tcp:166646:4"/>
+               <item>Michael Ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tier.</item>
+               <item>Jan <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>varſon.</item>
+            </list>
+            <p>Vantrump with his Orange flag, and bloody Pendants gave the Onſet, and pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ented our Admiral with many hundred ſhot, which fel like hail from the moſt high Canopy upon the Ambral, called the Re<g ref="char:EOLhyphen"/>ſolution, who indeed was ingaged in the very thickeſt of action; and diſputed the Conflict from the mouth of the Canon with abundance of galantry and reſoluti<g ref="char:EOLhyphen"/>on: during which time, his Excellency de<g ref="char:EOLhyphen"/>ported himſelf with incomparable courage and magni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icency of ſpirit, at the head of the ſhip, ſeriouſly ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erving the motion of the enemy, and by his audible and never to be forgotten expreſſions, in b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>half and defence of his Native Countrey, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the illuſtrating and preſervation of this glo<g ref="char:EOLhyphen"/>rious Cauſe, wrought ſuch a ſpirit of cou<g ref="char:EOLhyphen"/>rage amongſt the ſouldiery in general, that
+<pb n="8" facs="tcp:166646:5"/> the new raiſed forces performed ſingular good ſer<g ref="char:EOLhyphen"/>vice, for which th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y deſerve a moſt high eſtimation and acknowledgment. About 3 in the Afternoon the enemy began to decline engagement, making all the ſail they could; but we are in perſuit of them, ſome of our beſt ſailing frigats being almoſt up with them. The Enemy had 9 Flag ſhips when we firſt engaged, and now but one left; As for the par<g ref="char:EOLhyphen"/>ticular loſs, I ſhall refer you to the incloſed Liſt, and remain</p>
+            <closer>
+               <signed>Your moſt affectionate friend, Jacob Smith.</signed>
+               <dateline>From aboard the Aſſurance, <date>Aug. 1. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_casualties">
+            <head>A Liſt of the particular loſs on both ſides.</head>
+            <list>
+               <item>The Lord Admirall Trumps ſhip ſunk.</item>
+               <item>The Dolphin burnt.</item>
+               <item>8 More burnt &amp; ſunk.</item>
+               <item>30 Taken.</item>
+               <item>1 Orange Flag taken.</item>
+               <item>2 Blew Flags taken.</item>
+               <item>2 black Flags taken.</item>
+               <item>1 Bloody Flag.</item>
+               <item>2 Green Ones.</item>
+               <item>132 Men of War diſ<g ref="char:EOLhyphen"/>pierſed, and now in purſuit by the Eng<g ref="char:EOLhyphen"/>liſh.</item>
+               <item>Loſs of the Engliſh.</item>
+               <item>The Oak burnt.</item>
+               <item>One more, and moſt of her men deſtroy'd.</item>
+               <item>Divers ſhips batter'd, and many men ſlain.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
